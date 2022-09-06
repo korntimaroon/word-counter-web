@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 import Script from "next/script";
 
-
+// CODE BY KORNTIMAROON UNDER MIT LICENSED 2022
 export default function home() {
   const readingTime = 3/10;
   const speakingTime = 4/10;
